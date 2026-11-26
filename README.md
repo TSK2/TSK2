@@ -2,16 +2,17 @@
 
 개발하고, 공부하고, 가끔은 수다 떠는 개발자입니다.
 
-- 전공: 소프트웨어 · 복수전공: 데이터사이언스
+- Major: Software · Double Major: Data Science
 - 블로그: [ts2k.tistory.com](https://ts2k.tistory.com) · [tsk2.github.io](https://tsk2.github.io)
-- 관심 분야: 보안 · 머신러닝 / 딥러닝 · iOS / macOS 앱 · 웹
+- Interests: Security · Machine Learning / Deep Learning · iOS / macOS Apps · Web
 
 #### Data Science
 
-- 머신러닝 · 딥러닝 모델 학습
-- LLM 등 대형 모델 학습
-- 데이터 전처리 · 정규화
-- 빅데이터 처리 · 분석
+- Training machine learning & deep learning models
+- Training large models, including LLMs
+- Data preprocessing & normalization
+- Big data processing & analysis
+- Tools: PyTorch · TensorFlow · Hugging Face
 
 #### Projects
 
