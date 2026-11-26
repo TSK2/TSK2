@@ -2,6 +2,7 @@
 
 개발하고, 공부하고, 가끔은 수다 떠는 개발자입니다.
 
+- 전공: 소프트웨어
 - 블로그: [ts2k.tistory.com](https://ts2k.tistory.com) · [tsk2.github.io](https://tsk2.github.io)
 - 관심 분야: 보안 · iOS / macOS 앱 · 웹
 
